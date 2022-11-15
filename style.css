@@ -4,3 +4,20 @@
 .bbq{
     font-style: bold;
 }
+title{
+   font-family:CooperBlackBQ; 
+}
+img{
+    height: 100px;
+    width: 100px;
+}
+.footer{
+    background-color: grey;
+}
+#white{
+font-family:Arial, Helvetica, sans-serif;
+color:white;
+}
+#logo{
+border-radius: 50%;
+}
