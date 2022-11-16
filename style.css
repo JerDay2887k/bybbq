@@ -14,10 +14,18 @@ img{
 .footer{
     background-color: grey;
 }
-#white{
+.nav-item{
 font-family:Arial, Helvetica, sans-serif;
 color:white;
 }
 #logo{
 border-radius: 50%;
+width: 70px; height: 70px;
+}
+#font{
+    color: white;
+}
+.caro{
+    width: fit-content;
+    height: fit-content;
 }
