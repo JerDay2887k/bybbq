@@ -63,7 +63,7 @@ body {
     width: 50px;
     position: fixed;
     z-index: 1;
-    top: 40%;
+    top: 20%;
     left: 10px;
     background:#d40101ea;
     overflow-x: hidden;
@@ -110,6 +110,20 @@ body {
 .drive{
     width: 550px;
     height: 550px;
+}
+.time{
+    width: 60px;
+    height: 70px;
+    padding-top: 20px; 
+}
+.location{
+    width: 60px;
+    height: 70px;
+    padding-top: 20px; 
+}
+.carodessert{
+    width: 600px;
+    height: 400px;
 }
 @media screen and (max-height: 450px) {
     .sidenav {padding-top: 15px;}
