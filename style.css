@@ -122,8 +122,8 @@ body {
     padding-top: 20px; 
 }
 .carodessert{
-    width: fit-content;
-    height: fit-content;
+    width: 400px;
+    height: 300px;
 }
 .caropie{
     width: 500px;
@@ -133,6 +133,13 @@ body {
     height: 500px;
     width: 500px;
 }
+#ooga{
+    font-weight:500;
+  }
+  .carodeserts{
+    width: 600px;
+    height: 500px;
+  }
 @media screen and (max-height: 450px) {
     .sidenav {padding-top: 15px;}
     .sidenav a {font-size: 18px;}
